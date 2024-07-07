@@ -1,0 +1,1 @@
+export const API_URL="https://rajbhogkhana.com/api/v1"
